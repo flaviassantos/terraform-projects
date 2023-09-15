@@ -1,0 +1,7 @@
+# name this file 'terraform.tfvars'
+
+digitalocean_token = "dop_..."
+ssh_key = "/path/to/key/.ssh/id_rsa.pub"
+ssh_key_private = "/path/to/key/.ssh/id_rsa"
+user = "root"
+my_ip = "90.000.241.143"  # https://whatismyipaddress.com/
